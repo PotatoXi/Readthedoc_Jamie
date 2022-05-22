@@ -6,8 +6,8 @@ project = 'Jamie'
 copyright = '2022, Jianming zhao'
 author = 'Jianming zhao'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.2'
+version = '0.1.1'
 
 # -- General configuration
 

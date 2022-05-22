@@ -3,8 +3,8 @@ Welcome to Jamie's documentation!
 
 **This is a test** 
 
-It pulls data from the `Open Food Facts database <https://github.com/PotatoXi/Jamie>`_
-and offers a *Happu* and *run* API.
+It pulls data from the `Jami GitHub <https://github.com/PotatoXi/Jamie>`_
+and offers a *Happy* and *cool* API.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
